@@ -1,14 +1,14 @@
-h2.introduction {
-color: blue;
-}
 h1 {
   text-align: center;
   font-size: 60px;
 }
-p.introduction {
+intro h1 {
+  color: blue;
+  }
+.intro p {
   font-style: italic;
 }
-img.introduction {
+.intro img {
   float: right;
   height: 10%;
   width: 10%;
